@@ -9,6 +9,7 @@
     <h1>Hola Github</h1>
     <form action="patata.php"></form>
     <p>Mi primer archivo en Github</p>
+    <p>Son fritas o asadas</p>
     
 </body>
 </html>
